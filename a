@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+alias gt='git add .;git commit -m "ALIAS";git push'
